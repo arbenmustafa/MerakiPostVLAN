@@ -1,1 +1,4 @@
 import meraki
+
+
+apiKey = 'YOURAPIKEY'
